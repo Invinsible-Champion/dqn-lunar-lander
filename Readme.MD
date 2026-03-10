@@ -1,6 +1,5 @@
 # 🚀 Autonomous Lunar Lander: Dueling Double DQN
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#) *(Insert your live demo link here later)*
 
 An implementation of a Deep Reinforcement Learning agent trained to autonomously navigate the Gymnasium `LunarLander-v3` continuous control physics environment. 
 
